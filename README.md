@@ -6,6 +6,7 @@ Use this Python script to get random screenshots from Lightshot.
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the Framework.
+You need the [Chrome Driver](https://chromedriver.chromium.org/downloads) to run Selenium!
 
 ```bash
 pip install selenium keyboard
